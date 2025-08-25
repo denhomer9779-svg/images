@@ -161,7 +161,7 @@
     <div class="container">
         <div class="image-card">
             <div class="image-container" id="notionImage">
-                <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb" alt="美丽风景">
+                <img src="https://raw.githubusercontent.com/denhomer9779-svg/images/refs/heads/main/IMG_3374.JPEG" alt="美丽风景">
                 <div class="close-btn" id="closeBtn">×</div>
             </div>
             <div class="image-info">
@@ -248,4 +248,5 @@
         });
     </script>
 </body>
+
 </html>
